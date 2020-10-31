@@ -20,6 +20,11 @@ You can find repo of installation of docker in my repo list.
 
 Here are some of the command, which is going to be done in this code.
 
+I had disabled the while loop option you can continue that one by removing 
+the # and unmaking that as a comment.
+MAke sure of intendement of lines after while loop as python code needs only
+preety intended lines instead of brackets.
+
 press 1 : to run date
 press 2 : to cal
 press 3 : to reboot
@@ -33,4 +38,5 @@ press 10 : to start docker
 press 11 : to check status of docker
 press 12: to stop docker
 
-==================================================================================================== 
+====================================================================================================
+======================================================================= 
